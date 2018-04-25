@@ -1,10 +1,6 @@
 # organicer
 Smart system to organize personal and social information in the web.
 
-Dear friends, @relja reminded me that we need to talk about our chapter :see_no_evil:
-The next milestone is April 27th, where we need to have defined objectives and deliverables.
-My initial suggestion for that list (that we can discuss here) is:
-
 ## Objectives
 O1) Improve the way we track digital information both on our local machines and in the cloud, by leveraging the access to digital content that we were previously exposed to.
 O2) Use social interaction as a means to improve personal information organization. 
