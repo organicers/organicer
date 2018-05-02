@@ -15,3 +15,7 @@ Smart system to organize personal and social information in the web.
  * D5) Test plan for D2,D3 and D4.
  * D6) Proof-of-concept implementations for the system components described in D2, D3 and D4.
  * D7) Test results and performance evaluation for the components created in D6.
+
+## High-Level Architeture
+
+![High-level Architecture](/resources/images/chapter_architecture.png)
